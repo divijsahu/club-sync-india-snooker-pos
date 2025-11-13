@@ -3,10 +3,10 @@
 
 <div align="center">
 
-[![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
-[![Dart](https://img.shields.io/badge/Dart-3.0+-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
-[![Provider](https://img.shields.io/badge/State_Management-Provider-green?style=for-the-badge)](https://pub.dev/packages/provider)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Project-blue?style=for-the-badge)](https://github.com/divijsahu)
+<a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-3.0+-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"></a>
+<a href="https://dart.dev" target="_blank"><img src="https://img.shields.io/badge/Dart-3.0+-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"></a>
+<a href="https://pub.dev/packages/provider" target="_blank"><img src="https://img.shields.io/badge/State_Management-Provider-green?style=for-the-badge" alt="Provider"></a>
+<a href="https://github.com/divijsahu" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Project-blue?style=for-the-badge" alt="Portfolio"></a>
 
 **🚀 Empowering Snooker Clubs with Modern Digital Solutions**
 
@@ -16,8 +16,8 @@
 
 <div align="center">
 
-[![Google Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.clubsyncindia.admin)
-[![TestFlight](https://img.shields.io/badge/TestFlight-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://testflight.apple.com/join/4Jbq8JTx)
+<a href="https://play.google.com/store/apps/details?id=com.clubsyncindia.admin" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play Store"></a>
+<a href="https://testflight.apple.com/join/4Jbq8JTx" target="_blank"><img src="https://img.shields.io/badge/TestFlight-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="TestFlight"></a>
 
 **✅ Available on Google Play Store** | **🧪 iOS Beta via TestFlight**
 
@@ -262,8 +262,8 @@ Club Sync India follows a **feature-first** and **layered** architecture, ensuri
 For inquiries about this project or collaboration opportunities:
 
 - 📧 **Email**: divijsahu@gmail.com
-- 💼 **LinkedIn**: https://www.linkedin.com/in/divij-sahu-flutter-dev/
-- 🐙 **GitHub**: https://github.com/divijsahu
+- 💼 **LinkedIn**: <a href="https://www.linkedin.com/in/divij-sahu-flutter-dev/" target="_blank">https://www.linkedin.com/in/divij-sahu-flutter-dev/</a>
+- 🐙 **GitHub**: <a href="https://github.com/divijsahu" target="_blank">https://github.com/divijsahu</a>
 - 🌐 **Portfolio**: Coming Soon
 
 ---
