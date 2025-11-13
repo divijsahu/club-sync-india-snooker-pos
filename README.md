@@ -12,9 +12,92 @@
 
 *From table management to payment processing, inventory tracking to business analytics - everything you need to run a successful snooker club, all in one powerful mobile-first platform.*
 
-> **Note**: This is a portfolio showcase of a proprietary project. Source code is not publicly available due to commercial licensing.
+### 📲 Live App Downloads
+
+<div align="center">
+
+[![Google Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.clubsyncindia.admin)
+[![TestFlight](https://img.shields.io/badge/TestFlight-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://testflight.apple.com/join/4Jbq8JTx)
+
+**✅ Available on Google Play Store** | **🧪 iOS Beta via TestFlight**
 
 </div>
+
+> **Note**: This is a portfolio showcase of a proprietary project. The app is live and operational, serving real snooker clubs. Source code is not publicly available due to commercial licensing.
+
+</div>
+
+---
+
+## 📱 App Screenshots
+
+<div align="center">
+
+### Main Dashboard & Overview
+<img src="assets/screenshots/01-dashboard-overview.png" alt="Dashboard Overview" width="300"/>
+
+### Core Features Showcase
+
+<table>
+<tr>
+<td align="center">
+<img src="assets/screenshots/02-table-management.png" alt="Table Management" width="250"/>
+<br><strong>🎱 Table Management</strong>
+<br><em>Real-time table monitoring & control</em>
+</td>
+<td align="center">
+<img src="assets/screenshots/03-player-profiles.png" alt="Player Profiles" width="250"/>
+<br><strong>👥 Player Management</strong>
+<br><em>Comprehensive player profiles & CRM</em>
+</td>
+<td align="center">
+<img src="assets/screenshots/04-menu-ordering.png" alt="Menu Ordering" width="250"/>
+<br><strong>🍽️ Menu & Ordering</strong>
+<br><em>Mobile-first kitchen operations</em>
+</td>
+</tr>
+</table>
+
+### Business Intelligence & Management
+
+<table>
+<tr>
+<td align="center">
+<img src="assets/screenshots/05-payment-system.png" alt="Payment System" width="250"/>
+<br><strong>💰 Payment Processing</strong>
+<br><em>Multi-payment POS system</em>
+</td>
+<td align="center">
+<img src="assets/screenshots/06-analytics-reports.png" alt="Analytics Reports" width="250"/>
+<br><strong>📊 Analytics Dashboard</strong>
+<br><em>Real-time business insights</em>
+</td>
+<td align="center">
+<img src="assets/screenshots/07-staff-management.png" alt="Staff Management" width="250"/>
+<br><strong>🧑‍💼 Staff Management</strong>
+<br><em>Employee tracking & payroll</em>
+</td>
+</tr>
+</table>
+
+### Advanced Configuration
+<img src="assets/screenshots/08-settings-config.png" alt="Settings & Configuration" width="300"/>
+
+</div>
+
+---
+
+## 📋 Table of Contents
+
+- [🌟 Why Club Sync India?](#-why-club-sync-india)
+- [🎯 Core Features](#-core-features)
+- [🛠️ Technology Stack](#️-technology-stack)
+- [🏗️ Architecture](#️-architecture)
+- [📊 Technical Achievements](#-technical-achievements)
+- [📈 Business Impact](#-business-impact)
+- [🎯 Development Highlights](#-development-highlights)
+- [📚 Documentation](#-documentation)
+- [📞 Contact](#-contact)
 
 ---
 
@@ -142,26 +225,50 @@ Club Sync India follows a **feature-first** and **layered** architecture, ensuri
 - **Streamlined operations** across all departments
 - **Multi-branch scalability** for growing businesses
 
-### **📊 Key Metrics**
-- Supports multiple snooker clubs simultaneously
-- Handles thousands of daily transactions
-- Real-time processing with sub-second response times
-- 99.9% uptime with robust error handling
-- Cross-platform compatibility across 6 platforms
+### **📊 Live Deployment Metrics**
+- **✅ Production Ready**: Currently deployed and serving real businesses
+- **🏪 Active Installations**: Multiple snooker clubs using the platform
+- **📱 Google Play Store**: Live on Android with active user base
+- **🧪 iOS TestFlight**: Beta testing with club owners and staff
+- **🔄 Daily Transactions**: Handles hundreds of real transactions daily
+- **⚡ Performance**: Sub-second response times in production
+- **🛡️ Reliability**: 99.9% uptime with robust error handling
+- **🌐 Cross-Platform**: Proven compatibility across 6 platforms
 
 ## 🎯 Development Highlights
 
 This project demonstrates expertise in:
 
-- **Flutter Development**: Advanced mobile app development with complex business logic
-- **State Management**: Efficient Provider pattern implementation for large-scale apps
-- **Architecture Design**: Scalable, maintainable code structure following clean architecture
-- **Cross-Platform Development**: Single codebase deployment across multiple platforms
-- **Business Application Development**: Complex POS and management system implementation
-- **UI/UX Design**: Material Design 3 with custom business-specific components
-- **Performance Optimization**: Real-time updates, offline support, and efficient data handling
+- **Production Flutter Development**: Live app serving real businesses with complex requirements
+- **State Management**: Efficient Provider pattern implementation handling real-world data
+- **Architecture Design**: Scalable, maintainable code proven in production environment
+- **Cross-Platform Deployment**: Successfully deployed on Google Play Store and iOS TestFlight
+- **Business Application Development**: Complex POS system handling actual financial transactions
+- **UI/UX Design**: Material Design 3 interface validated by real users
+- **Performance Optimization**: Production-tested real-time updates and data handling
+- **Commercial App Store Deployment**: Experience with app store submission and approval processes
 
-## 📞 Contact
+## � Documentation
+
+### 📖 Comprehensive Documentation Available
+
+- **[📱 Screenshots Documentation](docs/SCREENSHOTS.md)**: Detailed explanation of each app screen
+- **[🏗️ Architecture Guide](docs/ARCHITECTURE.md)**: Technical architecture and design patterns
+- **[🚀 Deployment Guide](docs/DEPLOYMENT.md)**: Multi-platform deployment strategies
+- **[📁 Project Structure](docs/PROJECT_STRUCTURE.md)**: Repository organization and conventions
+- **[🎯 Features Overview](FEATURES.md)**: Complete feature breakdown
+- **[🛠️ Technology Stack](TECH_STACK.md)**: Detailed technology documentation
+
+### 🎯 Portfolio Highlights
+
+This repository demonstrates:
+- **Professional Documentation**: Comprehensive project documentation
+- **Visual Showcase**: High-quality app screenshots with detailed explanations
+- **Technical Depth**: Advanced architecture and deployment strategies
+- **Business Focus**: Real-world application with measurable business impact
+- **Modern Practices**: Current industry best practices and standards
+
+## �📞 Contact
 
 For inquiries about this project or collaboration opportunities:
 

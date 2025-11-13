@@ -43,6 +43,20 @@ coverage/
 .env.local
 .env.*.local
 
-# Screenshots (if you decide to add them later)
-screenshots/
-demo-videos/
+# Portfolio assets are tracked
+# screenshots/ and demo-videos/ folders are intentionally tracked for portfolio showcase
+
+# Additional Flutter/Dart specific ignores
+android/app/debug
+android/app/profile
+android/app/release
+ios/Runner.app
+ios/Runner.ipa
+macos/Runner.app
+linux/bundle/
+windows/runner/Release/
+web/build/
+
+# Platform specific
+.flutter-plugins
+.flutter-plugins-dependencies
