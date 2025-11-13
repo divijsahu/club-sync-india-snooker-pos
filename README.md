@@ -6,7 +6,7 @@
 [![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-3.0+-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
 [![Provider](https://img.shields.io/badge/State_Management-Provider-green?style=for-the-badge)](https://pub.dev/packages/provider)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Project-blue?style=for-the-badge)](https://github.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Project-blue?style=for-the-badge)](https://github.com/divijsahu)
 
 **🚀 Empowering Snooker Clubs with Modern Digital Solutions**
 
@@ -165,10 +165,10 @@ This project demonstrates expertise in:
 
 For inquiries about this project or collaboration opportunities:
 
-- 📧 **Email**: [Your Email]
-- 💼 **LinkedIn**: [Your LinkedIn]
-- 🐙 **GitHub**: [Your GitHub]
-- 🌐 **Portfolio**: [Your Portfolio Website]
+- 📧 **Email**: divijsahu@gmail.com
+- 💼 **LinkedIn**: https://www.linkedin.com/in/divij-sahu-flutter-dev/
+- 🐙 **GitHub**: https://github.com/divijsahu
+- 🌐 **Portfolio**: Coming Soon
 
 ---
 
