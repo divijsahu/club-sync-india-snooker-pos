@@ -43,8 +43,8 @@ coverage/
 .env.local
 .env.*.local
 
-# Portfolio assets are tracked
-# screenshots/ and demo-videos/ folders are intentionally tracked for portfolio showcase
+# App assets are tracked
+# screenshots/ and demo-videos/ folders are intentionally tracked
 
 # Additional Flutter/Dart specific ignores
 android/app/debug

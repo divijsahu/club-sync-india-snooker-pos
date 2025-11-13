@@ -33,55 +33,43 @@
 
 <div align="center">
 
-### Main Dashboard & Overview
-<img src="assets/screenshots/01-dashboard-overview.png" alt="Dashboard Overview" width="300"/>
-
-### Core Features Showcase
-
 <table>
 <tr>
 <td align="center">
-<img src="assets/screenshots/02-table-management.png" alt="Table Management" width="250"/>
-<br><strong>🎱 Table Management</strong>
-<br><em>Real-time table monitoring & control</em>
+<img src="assets/screenshots/01-dashboard-overview.png" alt="App Screenshot 1" width="250"/>
 </td>
 <td align="center">
-<img src="assets/screenshots/03-player-profiles.png" alt="Player Profiles" width="250"/>
-<br><strong>👥 Player Management</strong>
-<br><em>Comprehensive player profiles & CRM</em>
+<img src="assets/screenshots/02-table-management.png" alt="App Screenshot 2" width="250"/>
 </td>
 <td align="center">
-<img src="assets/screenshots/04-menu-ordering.png" alt="Menu Ordering" width="250"/>
-<br><strong>🍽️ Menu & Ordering</strong>
-<br><em>Mobile-first kitchen operations</em>
+<img src="assets/screenshots/03-player-profiles.png" alt="App Screenshot 3" width="250"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="assets/screenshots/04-menu-ordering.png" alt="App Screenshot 4" width="250"/>
+</td>
+<td align="center">
+<img src="assets/screenshots/05-payment-system.png" alt="App Screenshot 5" width="250"/>
+</td>
+<td align="center">
+<img src="assets/screenshots/06-analytics-reports.png" alt="App Screenshot 6" width="250"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="assets/screenshots/07-staff-management.png" alt="App Screenshot 7" width="250"/>
+</td>
+<td align="center">
+<img src="assets/screenshots/08-settings-config.png" alt="App Screenshot 8" width="250"/>
+</td>
+<td align="center">
+<!-- Empty cell for alignment -->
 </td>
 </tr>
 </table>
 
-### Business Intelligence & Management
-
-<table>
-<tr>
-<td align="center">
-<img src="assets/screenshots/05-payment-system.png" alt="Payment System" width="250"/>
-<br><strong>💰 Payment Processing</strong>
-<br><em>Multi-payment POS system</em>
-</td>
-<td align="center">
-<img src="assets/screenshots/06-analytics-reports.png" alt="Analytics Reports" width="250"/>
-<br><strong>📊 Analytics Dashboard</strong>
-<br><em>Real-time business insights</em>
-</td>
-<td align="center">
-<img src="assets/screenshots/07-staff-management.png" alt="Staff Management" width="250"/>
-<br><strong>🧑‍💼 Staff Management</strong>
-<br><em>Employee tracking & payroll</em>
-</td>
-</tr>
-</table>
-
-### Advanced Configuration
-<img src="assets/screenshots/08-settings-config.png" alt="Settings & Configuration" width="300"/>
+**8 App Screenshots from Club Sync India**
 
 </div>
 
@@ -237,7 +225,7 @@ Club Sync India follows a **feature-first** and **layered** architecture, ensuri
 
 ## 🎯 Development Highlights
 
-This project demonstrates expertise in:
+## 🎯 Key Technical Features
 
 - **Production Flutter Development**: Live app serving real businesses with complex requirements
 - **State Management**: Efficient Provider pattern implementation handling real-world data
@@ -261,7 +249,8 @@ This project demonstrates expertise in:
 
 ### 🎯 Portfolio Highlights
 
-This repository demonstrates:
+### 🎯 Repository Features
+
 - **Professional Documentation**: Comprehensive project documentation
 - **Visual Showcase**: High-quality app screenshots with detailed explanations
 - **Technical Depth**: Advanced architecture and deployment strategies
@@ -281,10 +270,8 @@ For inquiries about this project or collaboration opportunities:
 
 <div align="center">
 
-### 🎱 **Professional Flutter Development Showcase**
+### 🎱 **Club Sync India**
 
 **Transforming Business Operations Through Mobile Technology**
-
-*This portfolio project demonstrates advanced Flutter development capabilities and business application expertise.*
 
 </div>
