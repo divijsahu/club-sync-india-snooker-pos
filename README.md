@@ -186,7 +186,7 @@ Club Sync India follows a **feature-first** and **layered** architecture, ensuri
 ### **🚀 Performance Optimizations**
 - Cross-platform development with single codebase
 - Real-time data synchronization
-- Offline-first architecture with auto-sync
+
 - Multi-environment deployment (Dev/Stage/Prod)
 - Efficient state management with minimal rebuilds
 

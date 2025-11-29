@@ -81,7 +81,7 @@ flutter build web --release --web-renderer canvaskit
 
 # PWA configuration
 # Enable service worker and web manifest
-flutter build web --pwa-strategy=offline-first
+flutter build web
 ```
 
 ---

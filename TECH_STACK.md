@@ -40,7 +40,6 @@
 
 ### Connectivity Management
 - **Network Awareness**: Real-time connectivity monitoring
-- **Offline Support**: Local data caching and sync
 - **Auto-Retry**: Automatic request retry on network recovery
 - **Connection Quality**: Adapt behavior based on connection type
 

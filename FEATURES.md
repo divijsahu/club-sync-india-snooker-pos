@@ -124,7 +124,6 @@
 - **Android Support**: Native Android app with full functionality
 - **iOS Compatibility**: Complete iOS app with platform-specific optimizations
 - **Responsive Design**: Adaptive UI for different screen sizes
-- **Offline Capability**: Core functions work without internet
 
 ### Desktop & Web
 - **Windows Application**: Native desktop app for Windows

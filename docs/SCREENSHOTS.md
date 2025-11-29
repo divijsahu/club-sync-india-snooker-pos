@@ -162,7 +162,7 @@ All screenshots demonstrate consistent UI/UX across:
 
 ### Performance Features
 - **Real-time Updates**: Live data synchronization
-- **Offline Capability**: Core functions work without internet
+
 - **Fast Loading**: Optimized for quick response times
 - **Smooth Animations**: Fluid transitions and interactions
 
